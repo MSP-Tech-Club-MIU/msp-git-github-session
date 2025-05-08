@@ -37,7 +37,9 @@ This technical session introduced students to version control with **Git** and p
    - The concept of staging and snapshots
 
 6. **Quiz (via Quizizz)**  
-   A short interactive quiz for retention and fun!
+   - A short interactive quiz for retention and fun!  
+   - 📊 [View Quiz Results (Excel)](./GitGitHubQuiz-MSPSession(5-5-2025)-Results.xlsx)  
+   - 🧠 [Try the Quiz Online](https://quizizz.com/admin/quiz/6816701deaacdef83ec842a0/git-github-quiz-msp-session-552025?source=search-result-page&page=search-result-page&arid=b43cbee2-84e0-4b37-a04c-28128deefb10&apos=-1&term=Git%26GitHub+MSP)
 
 7. **Branches & Pull Requests**  
    - Introduction to collaboration workflows
